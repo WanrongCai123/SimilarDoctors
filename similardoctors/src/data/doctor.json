@@ -1,0 +1,94 @@
+{
+    "doctors":[
+        {
+            "id":1,
+            "name": "Leanne Graham",
+            "photo":"images/doctor1.jpeg",
+            "specialty":"Otolaryngology",
+            "location":"Houston",
+            "checked":false,
+            "score":"4.7"
+        },
+        {   
+            "id":2,
+            "name": "Clementine Bauch",
+            "photo":"images/doctor2.jpeg",
+            "specialty":"Neurosurgery",
+            "location":"Settle",
+            "checked":false,
+            "score":"4.8"
+        },
+        {
+            "id":3,
+            "name": "Patricia Lebsack",
+            "photo":"images/doctor3.jpeg",
+            "specialty":"Cardiology",
+            "location":"Chicago",
+            "checked":false,
+            "score":"4.5"
+        },
+        {
+            "id":4,
+            "name": "Chelsey Dietrich",
+            "photo":"images/doctor4.jpeg",
+            "specialty":"Otolaryngology",
+            "location":"New York",
+            "checked":false,
+            "score":"4.0"
+        },
+        {
+            "id":5,
+            "name": "Mrs. Dennis Schulist",
+            "photo":"images/doctor5.jpeg",
+            "specialty":"Cardiology",
+            "location":"Austin",
+            "checked":false,
+            "score":"4.2"
+        },
+        {
+            "id":6,
+            "name": "Kurtis Weissnat",
+            "photo":"images/doctor6.jpeg",
+            "specialty":"Neurosurgery",
+            "location":"Dallas",
+            "checked":false,
+            "score":"4.3"
+        },
+        {
+            "id":7,
+            "name": "Nicholas Runolfsdottir V",
+            "photo":"images/doctor7.jpeg",
+            "specialty":"Neurosurgery",
+            "location":"Boston",
+            "checked":false,
+            "score":"4.0"
+        },
+        {
+            "id":8,
+            "name": "Glenna Reichert",
+            "photo":"images/doctor8.jpeg",
+            "specialty":"Otolaryngology",
+            "location":"Los Angeles",
+            "checked":false,
+            "score":"4.4"
+        },
+        {
+            "id":9,
+            "name": "Clementina DuBuque",
+            "photo":"images/doctor9.jpeg",
+            "specialty":"Cardiology",
+            "location":"San Francisco",
+            "checked":false,
+            "score":"4.1"
+        },
+        {
+            "id":10,
+            "name": "Ervin Howell",
+            "photo":"images/doctor10.jpeg",
+            "specialty":"Otolaryngology",
+            "location":"San Diego",
+            "checked":false,
+            "score":"4.2"
+        }
+    ]
+}
