@@ -2,7 +2,7 @@
 
 
 
-public URL: http://small-pleasure.surge.sh/
+Surge URL: http://small-pleasure.surge.sh/
 
  
 
