@@ -21,3 +21,7 @@ Improvement:
 3. Update the location, avatar and score of the doctor
 
 4. Add more information of doctor, such as hospital name, work phone number
+
+
+
+Spend Time: 2 hours
